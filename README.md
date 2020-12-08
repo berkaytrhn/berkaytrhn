@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on "pass for now"
 - 🤔 I’m looking for help with test01
 - 💬 Ask me about Python,Java and also C
-- 📫 How to reach me: realrioden@gmail.com
+- 📫 How to reach me: berkaytrhn@gmail.com
 
 
 <p> Test text </p>
