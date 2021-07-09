@@ -1,18 +1,6 @@
-### Test Page for Berkay👋
-
-
-
-
-
-<p>Will be filled.</p>
-
-
 ### Hi there, I'm Berkay 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=realrioden&tw_p=followbutton)
-
-## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 I’m currently working on Python - Deep Learning/Computer Vision
 - 🌱 I’m currently learning Data Science and Machine Learning Algorithms 
