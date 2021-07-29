@@ -49,3 +49,5 @@
 ## Github Stats
 [![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaytrhn)](https://github.com/anuraghazra/github-readme-stats)
 
+![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaytrhn&show_icons=true)
+
