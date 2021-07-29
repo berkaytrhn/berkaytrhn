@@ -37,13 +37,6 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.berkaytrhn.vercel.app/api?username=berkaytrhn&show_icons=true&hide_border=true" />
-
-</details>
-
 [linkedin]: https://linkedin.com/in/BerkayEmreTurhan
 
 
