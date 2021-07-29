@@ -49,4 +49,19 @@
 ## Github Stats
 ![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaytrhn&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn&exclude_repo=github-readme-stats,anuraghazra.github.io)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn&hide=javascript,html)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 
