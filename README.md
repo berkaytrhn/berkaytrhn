@@ -19,8 +19,9 @@
 <br />
 
 ### Languages, Tools and Skills:
-
+<a href="https://code.visualstudio.com">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </a>
@@ -49,10 +50,19 @@
 <a href="https://docs.python.org/3/">
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/python/logo.png" />
 </a>
-
 <a href="https://pytorch.org/docs/stable/index.html">
 <img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 </a>
+<a href="https://devdocs.io/c/">
+<img align="left" alt="C Lang" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
+</a>
+<a href="https://scikit-learn.org/0.21/documentation.html">
+<img align="left" alt="C Lang" width="26px" src="https://ih1.redbubble.net/image.193727600.0984/st,small,507x507-pad,600x600,f8f8f8.u8.jpg" />
+</a>
+<a href="https://scikit-learn.org/0.21/documentation.html">
+<img align="left" alt="C Lang" width="26px" src="https://ih1.redbubble.net/image.193727600.0984/st,small,507x507-pad,600x600,f8f8f8.u8.jpg" />
+</a>
+
 
 <br />
 <br />
