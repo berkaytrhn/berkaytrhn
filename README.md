@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Data Science and Machine Learning Algorithms 
 - 👯 I’m looking to collaborate on Human Pose Estimation
 - 💬 Ask me about Python, Java, Javascript and also C
-- ⚡ Fun fact: I love to watch and play soccer and basketball
 - 📫 How to reach me: berkaytrhn@gmail.com
 
 <!--
