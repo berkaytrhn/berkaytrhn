@@ -59,10 +59,6 @@
 <a href="https://scikit-learn.org/0.21/documentation.html">
 <img align="left" alt="C Lang" width="26px" src="https://ih1.redbubble.net/image.193727600.0984/st,small,507x507-pad,600x600,f8f8f8.u8.jpg" />
 </a>
-<a href="https://scikit-learn.org/0.21/documentation.html">
-<img align="left" alt="C Lang" width="26px" src="https://ih1.redbubble.net/image.193727600.0984/st,small,507x507-pad,600x600,f8f8f8.u8.jpg" />
-</a>
-
 
 <br />
 <br />
@@ -76,14 +72,14 @@
 ## Github Stats
 ![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaytrhn&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn)]
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn&exclude_repo=github-readme-stats,berkaytrhn.github.io)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn&hide=javascript,html)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn&langs_count=8)]
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn&layout=compact)]
 
 
