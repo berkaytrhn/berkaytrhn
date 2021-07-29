@@ -43,3 +43,9 @@
 </details>
 
 [linkedin]: https://linkedin.com/in/BerkayEmreTurhan
+
+
+
+## Github Stats
+[![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaytrhn)](https://github.com/anuraghazra/github-readme-stats)
+
