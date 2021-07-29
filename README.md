@@ -47,7 +47,7 @@
 
 
 ## Github Stats
-![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaytrhn&show_icons=true&theme=gradient)
+![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaytrhn&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn)]
 
