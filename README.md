@@ -7,7 +7,7 @@
 - 📫 How to reach me: berkaytrhn@gmail.com
 
 <div align=right>
-<img align="center" alt="realrioden" color= "white" width="500px" src="https://media1.tenor.com/images/9d494528243a17b01c239436d843f8b7/tenor.gif?itemid=7941059" />
+<img align="center" alt="realrioden" color= "white" width="300px" src="https://media1.tenor.com/images/9d494528243a17b01c239436d843f8b7/tenor.gif?itemid=7941059" />
 </div>
 
 <!--
