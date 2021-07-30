@@ -74,8 +74,9 @@ General Stats             |  Language Stats
 ![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaytrhn&show_icons=true&theme=dark)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn&layout=compact)
 
 
-<img align="center" alt="realrioden" color= "white" width="100px" src="https://media1.tenor.com/images/9d494528243a17b01c239436d843f8b7/tenor.gif?itemid=7941059" />
-
+<div align=center>
+<img align="center" alt="realrioden" color= "white" width="500px" src="https://media1.tenor.com/images/9d494528243a17b01c239436d843f8b7/tenor.gif?itemid=7941059" />
+</div>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn&exclude_repo=github-readme-stats,berkaytrhn.github.io)]
