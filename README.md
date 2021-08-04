@@ -70,7 +70,7 @@
 <img align="left" alt="C Lang" width="26px" src="https://ih1.redbubble.net/image.193727600.0984/st,small,507x507-pad,600x600,f8f8f8.u8.jpg" />
 </a>
 <a href="https://docs.oracle.com/en/java/">
-<img align="left" alt="Java" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" />
+<img align="left" alt="Java" width="15px" height="26px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" />
 </a>
 
 
