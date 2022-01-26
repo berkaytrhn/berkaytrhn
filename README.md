@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Python - Deep Learning/Computer Vision
 - 🌱 I’m currently learning Data Science and Machine Learning Algorithms 
 - 👯 I’m looking to collaborate on 3D Reconstruction
-- 💬 Ask me about Python, Java, Javascript and also C
+- 💬 Ask me about Python, Java and also C
 - 📫 How to reach me: berkaytrhn@gmail.com
 
 
