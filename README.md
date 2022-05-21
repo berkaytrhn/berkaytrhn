@@ -24,7 +24,7 @@
 -->
 ### Connect with me:
 
-[<img align="left" alt="realrioden | LinkedIn" color= "white" width="22px" src="[https://image.flaticon.com/icons/png/512/174/174857.png](https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1653138530~hmac=c729499600ba4727fc69e7979bd13610)" />][linkedin]
+[<img align="left" alt="realrioden | LinkedIn" color= "white" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png" />][linkedin]
 
 <br />
 
