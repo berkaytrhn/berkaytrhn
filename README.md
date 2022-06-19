@@ -1,27 +1,19 @@
 
 
-
-<div>
-<div align="left">
- 
 ### Hi there, I'm Berkay 👋
 
+<img align="right" width="200" height="200" src="https://media1.tenor.com/images/9d494528243a17b01c239436d843f8b7/tenor.gif?itemid=7941059f">
+
+```
 - 🔭 I’m currently working on Deep Learning with Python and Java Spring Boot
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Backend Development
 - 👯 I’m looking to collaborate on 3D Reconstruction
 - 💬 Ask me about Python, Java and also C
 - 📫 How to reach me: berkaytrhn@gmail.com
+```
 
- <div align="right">
-<img alt="berkaytrhn" width="150px" src="https://media1.tenor.com/images/9d494528243a17b01c239436d843f8b7/tenor.gif?itemid=7941059">
- </div>
- 
- </div>
  
  
- 
-</div>
-
 ### Connect with me:
 
 [<img align="left" alt="berkaytrhn | LinkedIn" color= "white" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png" />][linkedin]
