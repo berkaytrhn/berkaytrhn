@@ -6,14 +6,14 @@
  
 ### Hi there, I'm Berkay 👋
 
-- 🔭 I’m currently working on Python - Deep Learning/Computer Vision
-- 🌱 I’m currently learning Data Science and Machine Learning Algorithms 
+- 🔭 I’m currently working on Deep Learning with Python and Java Spring Boot
+- 🌱 I’m currently learning Machine Learning, Deep Learning and Backend Development
 - 👯 I’m looking to collaborate on 3D Reconstruction
 - 💬 Ask me about Python, Java and also C
 - 📫 How to reach me: berkaytrhn@gmail.com
 
  <div align="right">
-<img alt="realrioden" width="200px" src="https://media1.tenor.com/images/9d494528243a17b01c239436d843f8b7/tenor.gif?itemid=7941059">
+<img alt="berkaytrhn" width="150px" src="https://media1.tenor.com/images/9d494528243a17b01c239436d843f8b7/tenor.gif?itemid=7941059">
  </div>
  
  </div>
@@ -22,14 +22,9 @@
  
 </div>
 
-<!--
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
--->
 ### Connect with me:
 
-[<img align="left" alt="realrioden | LinkedIn" color= "white" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png" />][linkedin]
+[<img align="left" alt="berkaytrhn | LinkedIn" color= "white" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png" />][linkedin]
 
 <br />
 
