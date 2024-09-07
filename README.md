@@ -3,7 +3,7 @@
 
 
 - 🔭 Working on both theoretical and applied Deep Learning 
-- 📫 How to reach: berkaytrhn@gmail.com
+- 📫 How to reach: [berkaytrhn@gmail.com](mailto:berkaytrhn@gmail.com) 
 
 
  
