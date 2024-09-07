@@ -1,7 +1,4 @@
-
-
-### Hi there, I'm Berkay 👋
-
+## About
 <img align="right" height="180" src="https://media1.tenor.com/images/9d494528243a17b01c239436d843f8b7/tenor.gif?itemid=7941059f">
 
 
@@ -57,11 +54,16 @@
 [linkedin]: https://linkedin.com/in/BerkayEmreTurhan
 
 
+## Stats
 
-## Github Stats
-General Stats             |  Language Stats
-:-------------------------:|:-------------------------:
-![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaytrhn&show_icons=true&theme=dark)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn&theme=dark&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkaytrhn&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=berkaytrhn&theme=highcontrast&hide_border=true)
+<br/>
+![Visits](https://komarev.com/ghpvc/?username=berkaytrhn) 
+
+
 
 
 
