@@ -59,7 +59,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkaytrhn&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=berkaytrhn)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=berkaytrhn&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <br/>
 ![Visits](https://komarev.com/ghpvc/?username=berkaytrhn) 
 
