@@ -60,7 +60,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaytrhn&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=berkaytrhn&theme=dark&hide_border=true)](https://git.io/streak-stats)
-<br/>
+<br/><br/>
+
 ![Visits](https://komarev.com/ghpvc/?username=berkaytrhn) 
 
 
