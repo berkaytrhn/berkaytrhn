@@ -2,7 +2,7 @@
 <img align="right" height="180" src="https://media1.tenor.com/images/9d494528243a17b01c239436d843f8b7/tenor.gif?itemid=7941059f">
 
 
-- 🔭 Working on both theoretical and applied Deep Learning 
+- 🔭 Working on Theoretical and applied Deep Learning, Full Stack Development
 - 📫 How to reach: [berkaytrhn@gmail.com](mailto:berkaytrhn@gmail.com) 
 
 
